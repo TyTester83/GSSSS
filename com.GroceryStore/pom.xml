@@ -61,7 +61,7 @@
                         <artifactId>maven-surefire-plugin</artifactId>
                         <version>3.5.2</version>
                         <configuration>
-                            <suiteXmlFiles>
+                            <suiteXmlFiles> 
                                 <suiteXmlFile>testngSmoke.xml</suiteXmlFile>
                             </suiteXmlFiles>
                         </configuration>
