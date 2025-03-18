@@ -62,7 +62,7 @@
                         <version>3.5.2</version>
                         <configuration>
                             <suiteXmlFiles>
-                                <suiteXmlFile>testngBatch.xml</suiteXmlFile>
+                                <suiteXmlFile>testngSmoke.xml</suiteXmlFile>
                             </suiteXmlFiles>
                         </configuration>
                     </plugin>
